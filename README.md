@@ -13,7 +13,7 @@ e aperfeiçoamento como profissional. ❤️
 
 ![preview1 img](/preview.png)
 
-## 👩‍💻 Autor: Victor Hugo (eu).
+## 👩‍💻 Meus Links:
 
 - Github: [Victor Hugo.](https://github.com/torugo99)
 - LinkedIn: [Victor Hugo.](https://www.linkedin.com/in/victor-hugo99/)
