@@ -22,4 +22,4 @@ e aperfeiçoamento como profissional. ❤️
 
 - Feito totalmente para meus estudos e sem fins lucrativos!
 - Direitos de imagem para Netflix, afinal ela foi minha inspiração. ❤️
-- Dados pegos através do site themoviedb.org 
+- Dados pegos através do site themoviedb.org
