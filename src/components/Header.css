@@ -21,6 +21,11 @@ header.black {
     display: block;
     height: 36px;
     font-size: 30px;
+    cursor: pointer;
+}
+
+.header--logo a {
+    text-decoration: none;
     color:#ff0000;
 }
 

@@ -5,7 +5,8 @@ export default ({black}) => {
     return (
         <header className={black ? 'black' : ''}>
             
-            <div className="header--logo">VICTORFLIX</div>
+            <div className="header--logo">
+                <a href="/">VICTORFLIX</a></div>
             
             <div className="header--user"> 
                 <a href="/">
