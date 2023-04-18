@@ -1,6 +1,6 @@
 # 💻 | Netflix inspired project.
 
-### [ 🇧🇷 Leia esta página em Português | Read this page in Português](./README.md)
+##### [ 🇧🇷 Leia esta página em Português | Read this page in Português](./README.md)
 
 ### My project inspired by netflix layout and responsive for devices: VICTORFLIX.
 
